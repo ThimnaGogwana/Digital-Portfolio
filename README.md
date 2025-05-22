@@ -45,7 +45,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ## 4. Create a CV
 
 ### Evidence
-- [My CV (PDF)](Thimna Gogwana_CV.pdf)
+- [My CV (PDF)](Thimna_Gogwana_CV.pdf)
 ### ✨ Reflection (STAR)
 **Situation:** I had to prepare a professional CV for a mock job application.  
 **Task:** Ensure that the CV accurately reflects my skills and experience.  
@@ -57,7 +57,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ## 5. CV Submission
 
 ### Evidence
-- [Submission Screenshots](#)(CV Submissions.pdf)
+- [Submission Screenshots](CV_Submissions.pdf)
 
 ### Reflection (STAR)
 **Situation:** I submitted my CV to a local tech company's online application portal.  
