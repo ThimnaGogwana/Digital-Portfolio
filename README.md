@@ -22,10 +22,10 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 - [Skills & Interests Document](skills-interests/skills.pdf)
 
 ### Reflection (STAR)
-**Situation:** During a class project, I had to manage a team while building a web application.  
-**Task:** I was responsible for planning and assigning tasks based on team members’ skills.  
-**Action:** I used my organizational and communication skills to keep the team on track.  
-**Result:** We completed the project successfully, and I realized I enjoy leadership and planning.
+**Situation:** Throughout my studies in ICT, I’ve developed a variety of technical and soft skills through coursework, projects, and self-learning. I wanted to evaluate how my skills and interests align with real-world roles.
+**Task:** I needed to identify which of my current skills are most relevant to the workplace, and how my personal interests could be turned into career strengths.  
+**Action:** I created a comprehensive list of my technical skills (e.g., HTML, CSS, JavaScript, SQL, Git) and soft skills (e.g., communication, teamwork, time management). I also reflected on my personal interests, such as user experience, web design, and solving real-world problems through tech. 
+**Result:** This process helped me recognize that I have a strong foundation in both coding and user-centered thinking. It also showed me that I’m passionate about roles that let me build practical, meaningful applications. I now understand how to present my skills confidently in CVs and interviews.
 
 ---
 
@@ -46,11 +46,11 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 
 ### Evidence
 - [My CV (PDF)](Thimna_Gogwana_CV.pdf)
-### ✨ Reflection (STAR)
-**Situation:** I had to prepare a professional CV for a mock job application.  
-**Task:** Ensure that the CV accurately reflects my skills and experience.  
-**Action:** I reviewed examples and used a CV builder to format it professionally.  
-**Result:** I now have a CV I can use for future internships and job applications.
+### Reflection (STAR)
+**Situation:** As a third-year ICT student preparing to enter the job market, I needed a professional CV to apply for internships and graduate roles in the tech industry.  
+**Task:** My goal was to design a clear, structured, and industry-appropriate CV that highlights my education, technical skills, and relevant experiences in a way that would attract recruiters and show I am job-ready.  
+**Action:** I started by researching best practices for ICT-focused CVs and reviewing templates used in the tech industry. I then drafted my CV using a clean format that emphasized my academic background, practical skills in software development, and soft skills like teamwork and problem-solving. I ensured that key sections like education, technical skills, projects, and achievements were prominently displayed and aligned with what employers look for in entry-level ICT candidates.
+**Result:** The process helped me better understand how to present myself professionally. I now have a CV that is tailored to ICT job applications, easy to update, and ready to use for real opportunities. It boosted my confidence in applying to jobs and taught me how to effectively showcase both my technical competencies and soft skills.
 
 ---
 
@@ -60,10 +60,10 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 - [Submission Screenshots](CV_Submissions.pdf)
 
 ### Reflection (STAR)
-**Situation:** I submitted my CV to a local tech company's online application portal.  
-**Task:** Meet the application requirements and deadline.  
-**Action:** I prepared everything ahead of time and ensured I included all necessary documents.  
-**Result:** I received a confirmation and learned how formal submissions work in practice.
+**Situation:** After creating my professional CV, I applied for several roles through online job portals to gain real experience with the application process and possibly get a job.  
+**Task:** My goal was to submit my CV successfully and ensure I met the requirements of the application, such as formatting, relevant documents, and a cover letter if needed.  
+**Action:**I carefully reviewed the job requirements, tailored my CV slightly to highlight relevant skills, and submitted it along with a cover letter. I made sure the formatting was clear and that all contact details were correct. I took a screenshot of the submission confirmation for reference.
+**Result:**Submitting my CV gave me a sense of achievement and readiness. I now know how the application process works, and I feel more confident applying to future roles. It also showed me the importance of preparation, attention to detail, and following instructions exactly. 
 
 ---
 
