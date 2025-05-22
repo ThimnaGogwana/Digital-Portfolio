@@ -5,7 +5,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ## 1. Career Counselling
 
 ### Evidence
-- [Career assessment results](career-counselling/evidence.pdf)
+- [Career assessment results](Thimna_Gogwana_Personality_Assessment.pdf)
 
 ### Reflection (STAR)
 **Situation:** As part of my academic development in my final year of the Diploma in ICT, I completed a personality-based career assessment to better understand my strengths and how they align with potential career paths in the tech industry. 
