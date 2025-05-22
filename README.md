@@ -19,7 +19,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ## 2. Skills and Interests
 
 ### Evidence
-- [Skills & Interests Document](skills-interests/skills.pdf)
+- [Skills & Interests Document](Thimna_Gogwana_Skills_and_Interests.pdf)
 
 ### Reflection (STAR)
 **Situation:** Throughout my studies in ICT, I’ve developed a variety of technical and soft skills through coursework, projects, and self-learning. I wanted to evaluate how my skills and interests align with real-world roles.
