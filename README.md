@@ -46,7 +46,6 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 
 ### Evidence
 - [My CV (PDF)](cv/CV.pdf)
-
 ### ✨ Reflection (STAR)
 **Situation:** I had to prepare a professional CV for a mock job application.  
 **Task:** Ensure that the CV accurately reflects my skills and experience.  
