@@ -57,7 +57,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ## 5. CV Submission
 
 ### Evidence
-- ![Submission Screenshot](cv-submission/screenshot.png)
+- ![Submission Screenshots](CV Submissions.pdf)
 
 ### Reflection (STAR)
 **Situation:** I submitted my CV to a local tech company's online application portal.  
