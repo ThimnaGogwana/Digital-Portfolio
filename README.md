@@ -32,7 +32,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ## 3. Personality Assessment
 
 ### Evidence
-- ![Personality Results](Thimna_Gogwana_Personality_Assessment.pdf)
+- [Personality Results](Thimna_Gogwana_Personality_Assessment.pdf)
 
 ### Reflection (STAR)
 **Situation:** I completed a personality-based career assessment to better understand my strengths and how they align with potential career paths in the tech industry.   
@@ -69,7 +69,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 
 ## 🔗 GitHub Link
 
-This portfolio is hosted on GitHub at: [github.com/YOUR-USERNAME/digital-portfolio](https://github.com/YOUR-USERNAME/digital-portfolio)
+This portfolio is hosted on GitHub at:[github.com/YOUR-USERNAME/digital-portfolio](https://github.com/YOUR-USERNAME/digital-portfolio)
 
 ---
 
