@@ -69,7 +69,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 
 ## 🔗 GitHub Link
 
-This portfolio is hosted on GitHub at:[github.com/YOUR-USERNAME/digital-portfolio](https://github.com/YOUR-USERNAME/digital-portfolio)
+This portfolio is hosted on GitHub at:[github.com/ThimnaGogwana/Digital-Portfolio](https://github.com/ThimnaGogwana/Digital-Portfolio)
 
 ---
 
