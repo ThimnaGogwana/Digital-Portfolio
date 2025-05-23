@@ -5,7 +5,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ## 1. Career Counselling
 
 ### Evidence
-- [Career assessment results]()
+- [Career assessment results](Career_Test.pdf)
 
 ### Reflection (STAR)
 **Situation:** As part of my final-year preparation for entering the ICT industry, I completed a career personality assessment to better understand what roles would suit my interests and personality.
