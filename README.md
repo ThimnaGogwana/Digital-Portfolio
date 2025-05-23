@@ -7,7 +7,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ### Evidence
 - [Career assessment results](Career_Test.pdf)
 
-### Reflection (STAR)
+### Reflection 
 **Situation:** As part of my final-year preparation for entering the ICT industry, I completed a career personality assessment to better understand what roles would suit my interests and personality.
 
 **Task:** I wanted to discover which ICT career paths align with my values, strengths, and long-term professional goals so I could target my job applications more effectively.  
@@ -23,7 +23,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ### Evidence
 - [Skills & Interests Document](Thimna_Gogwana_Skills_and_Interests.pdf)
 
-### Reflection (STAR)
+### Reflection 
 **Situation:** Throughout my studies in ICT, I’ve developed a variety of technical and soft skills through coursework, projects, and self-learning. I wanted to evaluate how my skills and interests align with real-world roles.
 
 **Task:** I needed to identify which of my current skills are most relevant to the workplace, and how my personal interests could be turned into career strengths.  
@@ -39,7 +39,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ### Evidence
 - [Personality Results](Thimna_Gogwana_Personality_Assessment.pdf)
 
-### Reflection (STAR)
+### Reflection 
 **Situation:** I completed a personality-based career assessment to better understand my strengths and how they align with potential career paths in the tech industry.   
 
 **Task:** My objective was to gain clarity on my ideal ICT roles and identify how my personality traits could influence my future workplace performance. I wanted guidance on what environments and roles would suit me best.  
@@ -54,7 +54,8 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 
 ### Evidence
 - [My CV (PDF)](Thimna_Gogwana_CV.pdf)
-### Reflection (STAR)
+  
+### Reflection 
 **Situation:** As a third-year ICT student preparing to enter the job market, I needed a professional CV to apply for internships and graduate roles in the tech industry.  
 
 **Task:** My goal was to design a clear, structured, and industry-appropriate CV that highlights my education, technical skills, and relevant experiences in a way that would attract recruiters and show I am job-ready.  
@@ -70,7 +71,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 ### Evidence
 - [Submission Screenshots](CV_Submissions.pdf)
 
-### Reflection (STAR)
+### Reflection 
 **Situation:** After creating my professional CV, I applied for several roles through online job portals to gain real experience with the application process and possibly get a job.  
 
 **Task:** My goal was to submit my CV successfully and ensure I met the requirements of the application, such as formatting, relevant documents, and a cover letter if needed.  
