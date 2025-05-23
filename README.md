@@ -14,7 +14,7 @@ Welcome to my digital portfolio for PRP372S. This repository includes evidence a
 
 **Action:** I completed a personality test (MBTI-based) which identified me as an INFJ – a personality type known for empathy, focus, and structure. I analyzed how this personality type matches roles in the ICT field and reflected on my preferences for human-centered, organized, and meaningful work.
 
-**Result:** I learned that I’m well-suited to careers like UX Designer, Business Analyst, and Software Tester. This assessment gave me more confidence in my career direction and helped me focus on the kinds of jobs I’ll thrive in. 
+**Result:** I learned that I’m well-suited to careers like Software Engineer, UX Designer and Business Analyst. This assessment gave me more confidence in my career direction and helped me focus on the kinds of jobs I’ll thrive in. 
 
 ---
 
